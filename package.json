@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "This is my first frontend project",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "parcel build src/index.js"
   },
   "author": "",
   "license": "ISC",
